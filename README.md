@@ -1,5 +1,6 @@
 # goal
 CS50x 2024 final project. A browser-based goal-tracking web-application
+![bpmn](https://github.com/user-attachments/assets/855d6a1d-298a-4223-b672-a19950073a2e)
 
 Sketch Miner Process Maps of the solution:
 
