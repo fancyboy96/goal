@@ -1,9 +1,6 @@
 Define and track your goals
 A CS50x 2024 final project
 
-![bpmn (4)](https://github.com/user-attachments/assets/5e93a240-a9a9-4729-b67e-10fbc974fee1)
-
-
 Sketch Miner Process Maps of the solution:
 
 - [View Goals](https://www.bpmn-sketch-miner.ai/#EYBwNgdgXAbgjAKALRIQVQM4FMBOUEBqAllgO4AEAtgJ7kDmA9gIZgYID075GALkzwFcM5IsIDkDCOR44mAYwDWY8kwgATchIBmW6bMVjCJCjXrNW3PoLbEyZluTVY+RVkA)
