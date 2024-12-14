@@ -1,4 +1,4 @@
-Define and track your goals
+GoalKeeper is a command line interface application for tracking goals.
 A CS50x 2024 final project
 
 Sketch Miner Process Maps of the solution:
